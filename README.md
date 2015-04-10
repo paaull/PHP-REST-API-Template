@@ -8,8 +8,8 @@ Some of the key features include:
 <ul><li>MVC Framework</li>
 <li>REST architectural style</li>
 <li>Request handler</li>
-<li>Selectable response structure - JSON or XML</li>
-<li>Enable/disable authentication, using public private key encryption</li>
+<li>Selectable response structure - JSON or XML, using &format URL parameter</li>
+<li>Enable/disable authentication, using public-private key encryption</li>
 <li>Debugging mode for request and response</li>
 <li>Exception handling - displaying end logging errors</li>
 <li>Automatic metadata/help page</li>
