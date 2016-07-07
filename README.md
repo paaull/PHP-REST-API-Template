@@ -1,4 +1,4 @@
-PHP REST API Template
+#PHP REST API Template
 
 This sample code can be used to create a REST API in PHP for educational purposes, not production use. The file structure and architecture is already provided, including the key features needed for any API. Add the controller and model files and you should be ready to go.
 
