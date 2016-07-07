@@ -1,10 +1,9 @@
-# REST_API_Framework
-PHP REST API Framework/Template
+PHP REST API Template
 
-This sample code can be used to create a REST API in PHP for educational purposes. The file structure and architecture is already provided, including the key features needed for an API. Add the controller and model files and you should be ready to go.
+This sample code can be used to create a REST API in PHP for educational purposes, not production use. The file structure and architecture is already provided, including the key features needed for any API. Add the controller and model files and you should be ready to go.
 
 
-Some of the key features include:
+Some of the key features:
 <ul><li>MVC Framework</li>
 <li>REST architectural style</li>
 <li>Request handler</li>
